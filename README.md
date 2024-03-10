@@ -1,5 +1,5 @@
 hi> i'm mura7ame
-i start programming today and i want to become junior backend developer in 5 monthes
+i start programming today and i want to become junior backend developer in 5 months
 good luck to me)
 
 <!---
